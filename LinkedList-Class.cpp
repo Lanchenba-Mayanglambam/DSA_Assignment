@@ -179,6 +179,7 @@ public:
     int main()
 {
 
+    // LinkedList();
     LinkedList list;
     list.insertEnd(10);
     list.insertEnd(20);
